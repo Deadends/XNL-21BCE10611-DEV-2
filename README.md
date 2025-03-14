@@ -8,20 +8,20 @@ GoAuth is a fully automated, multi-cloud, multi-region DevOps ecosystem that lev
 
 Feature used :
 
-NGINX - for proxy server (to keep the uptime stable)
-GoAuth 2.0 (SSO Feature)
-Grafana (Monitoring and to set alerts)
-Helm Charts - Prometheus
-Postgres SQL - DB
-Docker & Kubectl - pod management
+- **NGINX - for proxy server (to keep the uptime stable)
+- **GoAuth 2.0 (SSO Feature)
+- **Grafana (Monitoring and to set alerts)
+- **Helm Charts - Prometheus
+- **Postgres SQL - DB
+- **Docker & Kubectl - pod management
 
 Packages used:
 
-Goth - "https://github.com/markbates/goth"
-Gorilla Sessions - "https://github.com/gorilla/sessions"
-chi - "https://github.com/go-chi/chi"
-prometheus - "https://github.com/prometheus-community/helm-charts"
-pulumi - "https://github.com/pulumi/pulumi"
+- **Goth - "https://github.com/markbates/goth"
+- **Gorilla Sessions - "https://github.com/gorilla/sessions"
+- **chi - "https://github.com/go-chi/chi"
+- **prometheus - "https://github.com/prometheus-community/helm-charts"
+- **pulumi - "https://github.com/pulumi/pulumi"
 
 ## Architecture
 
