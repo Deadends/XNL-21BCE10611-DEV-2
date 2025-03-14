@@ -130,7 +130,7 @@ Packages used:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/deadends/goauth.git](https://github.com/Deadends/XNL-21BCE10611-DEV-2
+git clone [https://github.com/deadends/goauth.git](https://github.com/Deadends/XNL-21BCE10611-DEV-2.git
 cd goauth
 
 # Start local development environment
