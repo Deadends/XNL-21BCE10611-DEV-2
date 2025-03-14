@@ -54,8 +54,8 @@ pulumi - "https://github.com/pulumi/pulumi"
                  │                           │                           │
                  ▼                           ▼                           ▼
          ╭───────────────╮           ╭───────────────╮           ╭───────────────╮
-         │  React Apps   │           │  Go Services  │           │   Prometheus  │
-         │   Vue Apps    │           │  TypeScript   │           │    Grafana    │
+         │  React Apps   │           │  Golang  Chi  │           │   Prometheus  │
+         │  Next Js SSR  │           │  TypeScript   │           │    Grafana    │
          ╰───────────────╯           ╰───────────────╯           ╰───────────────╯
 
 
